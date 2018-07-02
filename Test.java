@@ -8,6 +8,7 @@ public class Test {
 	git status 查看仓库工作区状态
 	*/
 	public static void main(String[] args) {
+		System.out.println("nihao");
 		
 	}
 }
